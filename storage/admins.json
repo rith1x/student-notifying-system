@@ -1,0 +1,14 @@
+{
+    "admin@test.in": [
+        {
+            "name": "Test Admin",
+            "dept": "B.Tech Artificial Intelligence and data science",
+            "age": "25",
+            "designation": "Lecturer",
+            "phone": "9876543120",
+            "email": "admin@test.in",
+            "password": "admin",
+            "joined_at": "23\/04\/23 06:19 PM"
+        }
+    ]
+}

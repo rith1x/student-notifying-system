@@ -1,0 +1,58 @@
+[
+    {
+        "email": "admin@test.in",
+        "staff": "Test Admin",
+        "subject": "Small Notification Test",
+        "message": "Read for Tomorrow Test,",
+        "time": "23\/04\/23 06:26 PM"
+    },
+    {
+        "email": "admin@test.in",
+        "staff": "Test Admin",
+        "subject": "Small Notification Test",
+        "message": "Read for Tomorrow Test,",
+        "time": "23\/04\/23 06:27 PM"
+    },
+    {
+        "email": "admin@test.in",
+        "staff": "Test Admin",
+        "subject": "Small Notification Test",
+        "message": "Read for Tomorrow Test,",
+        "time": "23\/04\/23 06:27 PM"
+    },
+    {
+        "email": "admin@test.in",
+        "staff": "Test Admin",
+        "subject": "Small Notification Test",
+        "message": "Read for Tomorrow Test,",
+        "time": "23\/04\/23 06:27 PM"
+    },
+    {
+        "email": "admin@test.in",
+        "staff": "Test Admin",
+        "subject": "Small Notification Test",
+        "message": "Read for Tomorrow Test,",
+        "time": "23\/04\/23 06:27 PM"
+    },
+    {
+        "email": "ss@kiot.in",
+        "staff": "Sasikumar B",
+        "subject": "Sample",
+        "message": "Sample notification\r\n",
+        "time": "05\/05\/23 11:13 AM"
+    },
+    {
+        "email": "ss@kiot.in",
+        "staff": "Sasikumar B",
+        "subject": "Testing",
+        "message": "Test Message",
+        "time": "05\/05\/23 12:31 PM"
+    },
+    {
+        "email": "admin@test.in",
+        "staff": "Test Admin",
+        "subject": "Test",
+        "message": "Test",
+        "time": "11\/08\/23 03:53 PM"
+    }
+]

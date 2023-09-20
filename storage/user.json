@@ -1,0 +1,28 @@
+{
+    "1234": [
+        {
+            "name": "Kiruthik Kumar R",
+            "roll": "2K21AI66",
+            "dept": "B.Tech Artificial Intelligence and Data Science",
+            "age": "19",
+            "phone": "9876543210",
+            "gender": "male",
+            "email": "2k21aids66@kiot.ac.in",
+            "password": "1234",
+            "joined_at": "23\/04\/23 06:09 PM"
+        }
+    ],
+    "-8": [
+        {
+            "name": "k",
+            "roll": "2HTH",
+            "dept": "B.Tech Artificial Intelligence and Data Science",
+            "age": "-5",
+            "phone": "12345",
+            "gender": "male",
+            "email": "kilg@gmail",
+            "password": "1234",
+            "joined_at": "20\/09\/23 09:08 PM"
+        }
+    ]
+}
